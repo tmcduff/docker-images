@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "docker-images",
+			"path": "docker-images"
+		}
+	],
+	"settings": {}
+}
